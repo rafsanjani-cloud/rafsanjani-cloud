@@ -39,7 +39,7 @@ I’m not just learning to code — I’m building consistency, discipline, and 
 
 🎯 Goal
 
-To become a real developer with strong discipline, not just someone who learns — but someone who builds.
+To become a real developer with strong discipline, not just someone who learns  but someone who builds.
 
 ---
 
