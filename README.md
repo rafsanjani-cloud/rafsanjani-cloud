@@ -7,8 +7,10 @@ This project is part of my journey to become a disciplined and skilled future de
 
 🚀 About This Project
 
-This is one of my early projects where I focus on building real skills step by step.
-I’m not just learning to code — I’m building consistency, discipline, and growth.
+Ini salah satu project awal saya.
+Di sini saya gak cuma belajar coding, 
+tapi juga bangun konsistensi, disiplin, 
+dan kebiasaan improve setiap hari.
 
 ---
 
