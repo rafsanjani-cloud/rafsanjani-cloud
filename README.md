@@ -42,7 +42,8 @@ dan kebiasaan improve setiap hari.
 🎯 Goal
 
 To become a real developer with strong discipline,
-not just someone who learns  but someone who builds.
+not just someone who learns 
+but someone who builds.
 
 ---
 
